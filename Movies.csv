@@ -1,0 +1,41 @@
+Movie_ID,Movie_Name,Genre,Language,Certificate,Duration_Min,Release_Date,Production_Budget,Movie_Status
+M001,Crimson Horizon,Action,Telugu,UA,124,2026-01-03,90.17,Upcoming
+M002,Silent Echoes,Animation,English,UA,167,2026-04-20,90.87,Upcoming
+M003,The Last Voyage,Sci-Fi,Marathi,UA,134,2025-12-23,169.12,Now Showing
+M004,City of Dreams,Romance,Gujarati,UA,150,2026-05-05,105.05,Upcoming
+M005,Broken Mirror,Romance,Telugu,UA,131,2026-04-30,87.86,Now Showing
+M006,Eternal Flame,Fantasy,Hindi,UA,116,2025-12-21,51.72,Now Showing
+M007,Shadow Protocol,Action,English,UA,156,2026-05-31,63.02,Now Showing
+M008,Monsoon Diaries,Sci-Fi,Hindi,U,172,2026-03-10,96.12,Now Showing
+M009,Neon Nights,Drama,Hindi,U,116,2026-06-07,81.81,Now Showing
+M010,The Final Verdict,Action,Telugu,UA,157,2025-12-10,8.78,Ended
+M011,Whispers of Time,Horror,Telugu,U,115,2026-01-13,149.6,Now Showing
+M012,Rangoon Express,Musical,Marathi,UA,152,2026-03-29,161.83,Ended
+M013,Desert Rose,Animation,Hindi,A,158,2026-01-15,29.54,Now Showing
+M014,Iron Legacy,Animation,English,U,130,2026-02-18,101.96,Now Showing
+M015,The Great Escape,Animation,English,U,153,2026-05-08,24.0,Upcoming
+M016,Firestorm,Animation,Hindi,U,116,2026-01-04,122.64,Now Showing
+M017,Ocean's Whisper,Horror,Hindi,U,101,2026-05-12,54.22,Ended
+M018,Midnight Carnival,Comedy,English,UA,102,2025-12-25,120.4,Ended
+M019,Rebel Heart,Fantasy,Hindi,UA,130,2026-01-12,132.22,Now Showing
+M020,The Vanishing Point,Romance,Tamil,UA,167,2026-04-21,139.51,Now Showing
+M021,Zindagi Aur Sapne,Horror,English,UA,105,2026-06-09,23.85,Now Showing
+M022,Chasing Moonlight,Thriller,Gujarati,UA,131,2026-01-10,165.3,Upcoming
+M023,Steel Warriors,Comedy,Telugu,A,151,2026-02-10,45.29,Upcoming
+M024,Paper Boats,Musical,Hindi,U,111,2026-07-11,11.55,Now Showing
+M025,Kaash Ke Din,Animation,Gujarati,U,152,2026-07-26,102.1,Now Showing
+M026,The Silent Witness,Sci-Fi,Gujarati,U,119,2026-04-19,69.91,Now Showing
+M027,Cosmic Drift,Romance,English,UA,159,2026-03-18,150.21,Now Showing
+M028,Karmic Wheel,Fantasy,Hindi,UA,141,2026-02-22,146.44,Upcoming
+M029,Dilwale Rasta,Horror,Telugu,U,138,2026-04-26,60.5,Upcoming
+M030,The Untold Story,Romance,Hindi,UA,109,2026-04-21,171.76,Now Showing
+M031,Retro City,Romance,Hindi,U,132,2026-02-09,55.91,Ended
+M032,Aankhon Mein,Drama,Hindi,UA,163,2025-12-06,95.13,Now Showing
+M033,Velvet Sky,Action,Telugu,UA,96,2026-01-06,49.79,Now Showing
+M034,Sarhad Paar,Horror,Tamil,UA,155,2026-07-19,168.81,Now Showing
+M035,The Comeback,Fantasy,Telugu,U,134,2026-03-11,33.81,Ended
+M036,Jungle Raga,Action,Telugu,UA,152,2026-03-26,12.86,Upcoming
+M037,Digital Dreams,Fantasy,English,UA,148,2026-03-23,81.14,Now Showing
+M038,Rain Songs,Fantasy,Tamil,U,129,2026-06-06,178.67,Now Showing
+M039,The Heist Club,Drama,Hindi,U,119,2025-12-16,161.04,Now Showing
+M040,Anand Vilas,Sci-Fi,Hindi,A,145,2025-12-20,136.01,Now Showing
